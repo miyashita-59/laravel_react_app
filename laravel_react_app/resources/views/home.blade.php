@@ -5,12 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-    <title>テストApp</title>
+    <title>Home</title>
     @viteReactRefresh
     @vite([
         'resources/css/app.css',
         'resources/scss/app.scss',
-        'resources/ts/pages/App.tsx',
+        'resources/ts/pages/Home.tsx',
     ])
 </head>
 <body>
